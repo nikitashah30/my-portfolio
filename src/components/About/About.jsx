@@ -16,8 +16,8 @@ const About = () => {
         </div>
         <div className="about-right">
             <div className="about-para">
-                <p>I am an experienced frontend developer with over a decade of professional expertise in the field. Throughout my career, i have had the privilage of collaborating with prestigious organizations, contributing to their success and growth.</p>
-                <p>My passion for frontend development is not only reflected in my extensive experience but also in the enthusiasm and dedication i bring to each project. </p>
+                <p>I am an experienced Full Stack developer with over a decade of professional expertise in the field. Throughout my career, i have had the privilage of collaborating with prestigious organizations, contributing to their success and growth.</p>
+                <p>My passion for Full Stack development is not only reflected in my extensive experience but also in the enthusiasm and dedication i bring to each project. </p>
             </div>
             <div className="about-skills">
               <div className="about-skill">
@@ -30,25 +30,19 @@ const About = () => {
                 <p>JavaScript</p><hr  style={{width:'60%'}}/>
               </div>
               <div className="about-skill">
-                <p>Next JS</p><hr  style={{width:'50%'}}/>
+                <p>Java + SpringBoot</p><hr  style={{width:'50%'}}/>
               </div>
             </div>
         </div>
       </div>
       <div className="about-achievements">
         <div className="about-achievement">
+           <h1>Fresher</h1>
+        </div>
+        <hr />
+         <div className="about-achievement">
            <h1>10+</h1>
-           <p>YEARS OF EXPERINCE</p> 
-        </div>
-        <hr />
-         <div className="about-achievement">
-           <h1>90+</h1>
            <p>PROJECT COMPLETED</p> 
-        </div>
-        <hr />
-         <div className="about-achievement">
-           <h1>15+</h1>
-           <p>HAPPY CLIENTS</p> 
         </div>
       </div>
     </div>
